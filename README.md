@@ -1,6 +1,6 @@
 # GHR Search - GitHub Repository Search App
 
-A modern web application for searching GitHub repositories and managing your favorite repositories. Built with Next.js, TypeScript, and Tailwind CSS.
+A modern web application for searching GitHub repositories and managing your favorites repositories. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
 
